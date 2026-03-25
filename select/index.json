@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オトメの心得",
+  "base_artist": "GARNiDELiA",
+  "createdAt": "2026-03-25T14:39:29.012742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Otome no Kokoroe (オトメの心得)",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/01_Otome_no_Kokoroe_(オトメの心得)_GARNiDELiA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オトメの心得",
+      "artist": "GARNiDELiA",
+      "has_synced": false,
+      "path": "select/pl_01_オトメの心得_GARNiDELiA.txt"
+    }
+  ]
+}
